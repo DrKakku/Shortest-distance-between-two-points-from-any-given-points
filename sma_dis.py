@@ -1,7 +1,7 @@
 from math import*
 def dis(x1,x2,y1,y2):
      print(x1,y1,x2,y2)
-     dist = sqrt((x2-x1)^2+(y2-y1)^2)
+     dist = sqrt((x2-x1)**2+(y2-y1)**2)
      return dist
 def inte (lis):
      listt = []
